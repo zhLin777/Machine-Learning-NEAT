@@ -1,6 +1,8 @@
 # Machine-Learning-NEAT
 imgs－程式使用到的圖檔
+
 config-feedforward－NEAT需使用的參數檔案
+
 Flappybird-NEAT-ML期末－主程式
 
 MIT License
